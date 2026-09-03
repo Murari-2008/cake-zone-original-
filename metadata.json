@@ -1,0 +1,6 @@
+{
+  "name": "Cake Zone",
+  "description": "Premium Bespoke Cake Designers & Bakery in Kadapa. Pre-order custom theme cakes, classic pastries, special cheese cakes, and snacks with our interactive order organizer, rating system, and dynamic loyalty rewards tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
